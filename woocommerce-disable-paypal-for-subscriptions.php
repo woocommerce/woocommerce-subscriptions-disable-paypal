@@ -3,8 +3,8 @@
  * Plugin Name: WooCommerce Subscriptions Disable PayPal for Subscription Payments
  * Plugin URI: https://github.com/Prospress/woocommerce-subscriptions-disable-paypal
  * Description: Want to disable PayPal for subscription product purchases, but still offer it as an option for buying one-off products? Activate this plugin. It will also disable PayPal for subscription renewal and payment method changes. Requires WooCommerce 2.2 or newer.
- * Author: Brent Shepherd
- * Author URI: http://find.brentshepherd.com/
+ * Author: Prospress Inc.
+ * Author URI: https://prospress.com/
  * Version: 1.0.1
  *
  * This program is free software: you can redistribute it and/or modify
