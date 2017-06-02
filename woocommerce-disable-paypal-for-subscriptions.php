@@ -6,6 +6,10 @@
  * Author: Prospress Inc.
  * Author URI: https://prospress.com/
  * Version: 1.0.1
+ * License: GPLv3
+ *
+ * GitHub Plugin URI: Prospress/woocommerce-subscriptions-disable-paypal
+ * GitHub Branch: master
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
