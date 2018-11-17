@@ -26,6 +26,8 @@
  *
  * @author Brent Shepherd
  * @since  1.0
+ * Tested up to: 5.0.0
+ * WC tested up to: 3.5.1
  */
 
 function wcsdp_get_available_payment_gateways( $available_gateways ) {
