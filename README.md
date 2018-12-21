@@ -10,7 +10,7 @@ Install and activate this plugin. It will also disable PayPal for [subscription 
 
 This plugin requires WooCommerce 2.2 or newer. It will work with any version of Subscriptions, even v1.5 (but _please_ update to Subscriptions 2.0 or newer :pray:).
 
-## Exisitng PayPal Subscriptions
+## Existing PayPal Subscriptions
 If your store has subscriptions set up with PayPal Standard before installing this plugin, those existing subscriptions will continue as normal with this plugin. This plugin simply removes PayPal as a payment option on the checkout if the cart contains a subscription.
 
 So to clarify, this plugin prevents new subscription sign-ups to be processed with PayPal Standard, [PayPal IPNs](https://developer.paypal.com/webapps/developer/docs/classic/products/instant-payment-notification/) for existing subscriptions will continue to process.
